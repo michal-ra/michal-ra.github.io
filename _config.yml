@@ -1,3 +1,6 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: poole/lanyon
 plugins:
   - jekyll-remote-theme
+  - jekyll-gist
+  - jekyll-sitemap
+  - jekyll-seo-tag
