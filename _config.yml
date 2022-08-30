@@ -1,8 +1,2 @@
-# Setup
-title:               m
-baseurl:             ''
-paginate:            5
-
-# Gems
-plugins:
-  - jekyll-paginate
+title: m
+theme: minima
