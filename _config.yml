@@ -1,2 +1,12 @@
 title: m
 theme: minima
+minima:
+  skin: dark
+  
+  
+header_pages:
+  - about.html
+
+author:
+  name: mich
+  email: "mi@ch.com"
