@@ -5,7 +5,7 @@ minima:
   
   
 header_pages:
-  - about.html
+  - about.md
 
 author:
   name: mich
