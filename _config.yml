@@ -1,19 +1,18 @@
 title: m
-theme: minima
-minima:
-  skin: dark
-  
-  
-header_pages:
-  - about.md
-
 author:
   name: mich
-  email: "mi@ch.com"
+  email: mich@domain.com
   
 description: > # this means to ignore newlines until "show_excerpts:"
   Just give me a sec or more and I will have some more content for you.
 show_excerpts: false # set to true to show excerpts on the homepage
+
+theme: minima
+minima:
+  skin: dark  
+  
+header_pages:
+  - about.md
 
 plugins:
  - jekyll-feed
