@@ -14,3 +14,6 @@ author:
 description: > # this means to ignore newlines until "show_excerpts:"
   Just give me a sec or more and I will have some more content for you.
 show_excerpts: false # set to true to show excerpts on the homepage
+
+plugins:
+ - jekyll-feed
